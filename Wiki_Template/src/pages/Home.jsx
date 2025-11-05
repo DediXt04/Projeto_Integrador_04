@@ -7,7 +7,7 @@ export default function Home() {
       <div className="p-5 mb-4 bg-light rounded-3">
         <div className="container-fluid py-5">
           <h1 className="display-5 fw-bold">Nome do Jogo (provisório)</h1>
-          <p className="col-md-8 fs-4">Breve descrição do jogo — um runner com mecânica única.</p>
+          <p className="col-md-8 fs-4">Breve descrição do jogo.</p>
           <Link to="/sobre" className="btn btn-primary btn-lg">Saiba mais</Link>
         </div>
       </div>
